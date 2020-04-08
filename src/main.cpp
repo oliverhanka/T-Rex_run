@@ -3,21 +3,6 @@
 #include "Animation.h"
 #include "AnimationRainbow.h"
 
-// DEV KIT
-// #define CHANNEL 34        
-// #define THRESHOLD 2970
-
-// #define SERVO_REST_POSITION 90
-// #define SERVO_PUSH_POSITION 60
-// #define SERVO_GPIO 13
-
-// #define EVENT_LOOP_TICK_INTERVALL (1*1000) // timer is set to 10ms (base is in microseconds)
-// #define SERVO_PUSH_CNT  200
-// #define SERVO_REST_CNT  200
-// #define JUMP_DELAY      100
-
-// #define DEBUG_CNT       500
-
 // UNICORN
 #define CHANNEL 36        
 #define THRESHOLD 3000  // 3025
@@ -113,6 +98,7 @@ void loop() {
        * Check the counter values
        */
 
+      // optional part - make the unicorn shine
       if (animCnt > 0) {
         animCnt--;
         if (animCnt == 0) {
