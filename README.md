@@ -4,6 +4,8 @@ Teaching unicorn new tricks and helping T-Rex (aka. Chrome Dino) jump. Based on 
 
 ![Setup](doc/setup.png)
 
+[Video on Twitter](https://twitter.com/CtfUnicorn/status/1247897609823375361)
+
 ## Configuration
 These values need to be adjusted in main.c:
 
