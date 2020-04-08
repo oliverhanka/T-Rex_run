@@ -1,6 +1,6 @@
 # T-Rex_run
 
-Unicorn helping T-Rex
+Teaching unicorn new tricks and helping T-Rex jump. Based on the [unicorn CTF hardware](https://github.com/oliverhanka/UnicornPCB).
 
 ## Configuration
 These values need to be adjusted in main.c:
