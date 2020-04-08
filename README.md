@@ -1,5 +1,6 @@
 # T-Rex_run
 
+<<<<<<< HEAD
 Teaching unicorn new tricks and helping T-Rex (aka. Chrome Dino) jump. Based on the [unicorn CTF hardware](https://github.com/oliverhanka/UnicornPCB).
 
 ![Setup](doc/setup.png)
